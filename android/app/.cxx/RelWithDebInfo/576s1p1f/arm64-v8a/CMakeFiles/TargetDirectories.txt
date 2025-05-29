@@ -1,0 +1,2 @@
+C:/Users/Sid/Documents/GitHub/FoodScanAI/android/app/.cxx/RelWithDebInfo/576s1p1f/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Sid/Documents/GitHub/FoodScanAI/android/app/.cxx/RelWithDebInfo/576s1p1f/arm64-v8a/CMakeFiles/rebuild_cache.dir

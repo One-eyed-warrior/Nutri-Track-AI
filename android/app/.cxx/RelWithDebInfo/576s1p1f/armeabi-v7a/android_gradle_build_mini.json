@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Sid\\flutter\\src\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Sid\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Sid\\Documents\\GitHub\\FoodScanAI\\android\\app\\.cxx\\RelWithDebInfo\\576s1p1f\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Sid\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Sid\\Documents\\GitHub\\FoodScanAI\\android\\app\\.cxx\\RelWithDebInfo\\576s1p1f\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
